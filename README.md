@@ -8,7 +8,7 @@ The chatbot responds to common user messages such as greetings, questions about 
 
 🚀 **Try the chatbot online:**
 
-👉 https://shekhar-himanshu-dbg.github.io/CodeAlpha_Basic-Chatbot/
+👉 https://jaiswaldhiraj338753-sketch.github.io/CodeAlpha_Basic-Chatbot/
 
 ## 📂 GitHub Repository
 
